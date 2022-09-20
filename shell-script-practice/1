@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo -e " Enter your name: \n \t"; read name 
+
+sleep 1
+
+echo -e  "\n  Good Morning $name \n"
+
+sleep 0.5
+
+echo " Hey, Good Morning $name "
